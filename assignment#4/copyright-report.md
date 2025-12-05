@@ -46,17 +46,15 @@ sent within 5 minutes of uploading the video.
 Screenshot of successful uploads:
 
 ![A screenshot of a video Description automatically
-generated](successful%20uploads.jpg){width="4.132452974628172in"
-height="4.3181813210848645in"}
+generated](successful%20uploads.jpg)
 
 Warnings:
 
 ![A screenshot of a phone Description automatically
-generated](warnings.jpg){width="6.5in"
-height="2.4520833333333334in"}
+generated](warnings.jpg)
 
 Email Notice:![A screenshot of a video Description automatically
-generated](email%20notice..jpg){width="4.482638888888889in" height="9.0in"}
+generated](email%20notice..jpg)
 
 ## AI-Generated Content Investigation
 
@@ -64,11 +62,8 @@ generated](email%20notice..jpg){width="4.482638888888889in" height="9.0in"}
 
 #### AI Prompt: Generate a music video in the style of taylor swift's I can do it with a broken heart
 
-#### AI generated Output:![A screenshot of a video chat Description automatically generated](ai_video%231.png){width="6.5in" height="3.8625in"}
+#### AI generated Output:![A screenshot of a video chat Description automatically generated](ai_video%231.png)
 
-#### [![](ai_video%231.png){width="6.5in" height="0.6756944444444445in"}](https://youtube.com/shorts/txqpe5ZjzwU?feature=share) 
-
-#### 
 
 #### I uploaded this as a YouTube short, and no violations were found. There were no Content ID matches, since I am assuming music and visuals were AI generated.
 
@@ -82,17 +77,9 @@ generated](email%20notice..jpg){width="4.482638888888889in" height="9.0in"}
 
 #### AI generated output:
 
-#### ![A person in a red shirt Description automatically generated](ai_video%232upload.png){width="6.5in" height="4.595138888888889in"}
-
-#### ![](ai_video%232upload.png){width="6.5in" height="0.6923611111111111in"}
+#### ![](ai_video%232upload.png)
 
 #### I uploaded this on YouTube and even if the video has the AI watermark, nothing happened. There were no Content ID matches, since I am assuming music and visuals were AI generated.
-
-#### 
-
-#### 
-
-#### 
 
 #### For both of the AI tools I used, VEED and DeeVid allows users to own the output that was generated. Both services prohibit generating direct copyrighted material (exact songs, characters, or footage).They emphasize that AI outputs must be original and not copies of existing works
 
@@ -200,21 +187,17 @@ AI Video #2: <https://youtu.be/3uIy2Q8U_lg>
 Successful Uploads:
 
 ![A screenshot of a video Description automatically
-generated](successful%20uploads.jpg){width="5.152777777777778in"
-height="5.416666666666667in"}
+generated](successful%20uploads.jpg)
 
 Copyright Warning:
 
 ![A screenshot of a video Description automatically
-generated](warnings.jpg){width="5.261363735783027in"
-height="7.17198053368329in"}
+generated](warnings.jpg)
 
 Email notices:
 
 ![A screenshot of a video content Description automatically
-generated](email%20notice..jpg){width="1.64873687664042in"
-height="3.330366360454943in"}
+generated](email%20notice..jpg)
 
 ![A screenshot of a video content Description automatically
-generated](email_notice.png){width="1.9090912073490813in"
-height="3.8562685914260717in"}
+generated](email_notice.png)
